@@ -1,0 +1,3 @@
+﻿  GameEndScreen.cpp
+C:\Users\Beth\Documents\uni year 2\game engine\Sem 2\MarioAssignment\MarioAssignment\GameEndScreen.cpp(36): warning C4715: 'GameEndScreen::setUpLevel': not all control paths return a value
+  MarioAssignment.vcxproj -> C:\Users\Beth\Documents\uni year 2\game engine\Sem 2\MarioAssignment\Debug\MarioAssignment.exe
